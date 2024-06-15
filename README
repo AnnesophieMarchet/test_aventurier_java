@@ -13,10 +13,6 @@ Il s'agit de modéliser les déplacements d'un personnage sur une carte.
 
 La carte est modélisée à l'aide de caractères dans un fichier texte au format UTF-8 (voir map.txt dans assets).
 
-
-
-
-
 ### Légende
 
 - `#` : bois impénétrables
